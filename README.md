@@ -1,6 +1,6 @@
 
 
-([![bjj.png](https://i.postimg.cc/1zVnRTQd/bjj.png)](https://postimg.cc/7CDYmKb1))
+[![bjj.png](https://i.postimg.cc/1zVnRTQd/bjj.png)](https://postimg.cc/7CDYmKb1)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hola! Soy Juan</h2>
 
@@ -33,5 +33,5 @@
 ### 🤝🏻 &nbsp;Conecta conmigo.
 
 <p align="center">
-<a href="https://web.facebook.com/BJbautista.99"><img src="https://img.shields.io/badge/-AdityaKanoi-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://web.facebook.com/BJbautista.99"><img src="https://img.shields.io/badge/-JuanBautista-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 

@@ -3,9 +3,9 @@
 
 ([![bjj.png](https://i.postimg.cc/1zVnRTQd/bjj.png)](https://postimg.cc/7CDYmKb1))
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hola! sOy Juan</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hola! Soy Juan</h2>
 
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya Kanoi -->
+<!-- ## 👋 &nbsp;-->
 
 ### 👨🏻‍💻 &nbsp;Acerca de mi
 
@@ -13,7 +13,7 @@
 💡 &nbsp;Me gusta explorar nuevos lenguajes de programacion\
 🎓 &nbsp;Soy estudiante de la licenciatura en Informatica .\
 ✍️ &nbsp;Interesado en la robotica movil.\
-💬 &nbsp;Capacidades de trabajo colaborativo.\
+💬 &nbsp;Capacidades de trabajo colaborativo.
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>

@@ -9,7 +9,7 @@
 
 ### 👨🏻‍💻 &nbsp;Acerca de mi
 
-👨‍💻 &nbsp;Joven intersado por las nuevas tecnologias.\
+👨‍💻 &nbsp;Joven interesado por las nuevas tecnologias.\
 💡 &nbsp;Me gusta explorar nuevos lenguajes de programacion\
 🎓 &nbsp;Soy estudiante de la licenciatura en Informatica .\
 ✍️ &nbsp;Interesado en la robotica movil.\

@@ -1,4 +1,3 @@
-![Juan Bautista Juarez Banner]
 
 
 ([![bjj.png](https://i.postimg.cc/1zVnRTQd/bjj.png)](https://postimg.cc/7CDYmKb1))
@@ -29,10 +28,9 @@
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-
 
 
-### 🤝🏻 &nbsp;Connect with Me
+### 🤝🏻 &nbsp;Conecta conmigo.
 
 <p align="center">
 <a href="https://web.facebook.com/BJbautista.99"><img src="https://img.shields.io/badge/-AdityaKanoi-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
